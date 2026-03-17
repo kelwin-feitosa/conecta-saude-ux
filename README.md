@@ -18,17 +18,19 @@ Para cumprir os requisitos de redundância e acessibilidade, o protótipo oferec
 ### 1. Caminho Principal: Fluxo de Acesso Direto (Home)
 Ideal para agendamentos rápidos a partir da visualização inicial do sistema.
 * **Entrada:** Após o login, o utilizador interage com o card central **"Marcar Consulta"**, posicionado em destaque na Página Inicial (acima do menu inferior).
-* **Etapas:** 1. Seleção da modalidade (Presencial ou Online).
-* 2. Escolha da Especialidade Médica.
-  3. Seleção de Horário.
-  4. Confirmação de dados e Finalização de Pagamento.
+* **Etapas:**
+  - Seleção da modalidade (Presencial ou Online)
+  - Escolha da Especialidade Médica
+  - Seleção de Horário
+  - Confirmação de dados e Finalização de Pagamento
 
 
 ### 2. Caminho Secundário: Fluxo via Gestão de Consultas
 Focado no utilizador que deseja rever o histórico ou gerir compromissos antes de uma nova marcação.
 * **Entrada:** O utilizador acede através do **Card de Próxima Consulta** (topo da Home) ou através do ícone **"Consultas"** na barra de navegação inferior.
-* **Etapas:** 1. O sistema direciona para a tela de **Histórico/Consultas Marcadas**.
-    2. No final desta lista, o utilizador seleciona a opção **"Marcar Nova Consulta"**, sendo integrado no fluxo padrão de agendamento.
+* **Etapas:**
+  - O sistema direciona para a tela de **Histórico/Consultas Marcadas**.
+  - No final desta lista, o utilizador seleciona a opção **"Marcar Nova Consulta"**, sendo integrado no fluxo padrão de agendamento.
 
 ## 🛠️ Requisitos Técnicos Atendidos
 - [x] Wireframe de Baixa Fidelidade (Foco em Usabilidade).
