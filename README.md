@@ -19,9 +19,10 @@ Para cumprir os requisitos de redundância e acessibilidade, o protótipo oferec
 Ideal para agendamentos rápidos a partir da visualização inicial do sistema.
 * **Entrada:** Após o login, o utilizador interage com o card central **"Marcar Consulta"**, posicionado em destaque na Página Inicial (acima do menu inferior).
 * **Etapas:** 1. Seleção da modalidade (Presencial ou Online).
-    2. Escolha da Especialidade Médica.
-    3. Seleção de Horário.
-    4. Confirmação de dados e Finalização de Pagamento.
+* 2. Escolha da Especialidade Médica.
+  3. Seleção de Horário.
+  4. Confirmação de dados e Finalização de Pagamento.
+
 
 ### 2. Caminho Secundário: Fluxo via Gestão de Consultas
 Focado no utilizador que deseja rever o histórico ou gerir compromissos antes de uma nova marcação.
