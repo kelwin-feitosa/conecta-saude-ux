@@ -2,8 +2,8 @@
 
 ## 👥 Equipe
 * **Kelwin Feitosa**
-* **Julia G.**
-* **Jonathan Correia Rodrigues**
+* **Julia Gregori**
+* **Jonathan Correia**
 
 ## 🎯 Contexto e Desafio
 O **ConectaSaúde** é um wireframe de baixa fidelidade para um ecossistema de saúde digital. O foco do projeto é a jornada de agendamento de consultas psicológicas, otimizada para utilizadores que necessitam de baixa fricção cognitiva e rapidez no acesso ao cuidado emocional.
