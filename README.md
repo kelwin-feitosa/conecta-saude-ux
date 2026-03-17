@@ -1,22 +1,3 @@
-# ConectaSaúde — Fluxo de Agendamento Psicológico
-
-## 👥 Equipe
-* **Kelwin Feitosa**
-* **Júlia Gregori**
-* **Jonathan Correia**
-
-## 🎯 Contexto e Desafio
-O **ConectaSaúde** é um wireframe de baixa fidelidade para um ecossistema de saúde digital. O foco do projeto é a jornada de agendamento de consultas psicológicas, otimizada para utilizadores que necessitam de baixa fricção cognitiva e rapidez no acesso ao cuidado emocional.
-
-## 🔗 Protótipo Navegável (Figma)
-> [!IMPORTANT]
-> **[➔ CLIQUE AQUI PARA ACESSAR O PROTÓTIPO NO FIGMA](https://www.figma.com/proto/7sbbARXN0zuO9FgyWZ4N28/ConectaSa%C3%BAde?node-id=0-1&t=qWn5TqdjX25unPxE-1)**
-
-Aqui está a versão final e técnica do seu README.md, ajustada exatamente com a terminologia de UX e os fluxos que você descreveu.
-
-Podes copiar e colar diretamente no GitHub:
-Markdown
-
 # ConectaSaúde — Fluxo de Agendamento de Consultas
 
 ## 👥 Equipe
