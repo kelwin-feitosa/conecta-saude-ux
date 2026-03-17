@@ -10,7 +10,7 @@ O **ConectaSaúde** é um wireframe de baixa fidelidade para um ecossistema de s
 
 ## 🔗 Protótipo Navegável (Figma)
 > [!IMPORTANT]
-> **[➔ CLIQUE AQUI PARA ACESSAR O PROTÓTIPO NO FIGMA](COLE_O_LINK_AQUI)**
+> **[➔ CLIQUE AQUI PARA ACESSAR O PROTÓTIPO NO FIGMA](https://www.figma.com/proto/7sbbARXN0zuO9FgyWZ4N28/ConectaSa%C3%BAde?node-id=0-1&t=qWn5TqdjX25unPxE-1)**
 
 ## 🛤️ Detalhamento dos Dois Caminhos (Tarefa: Agendar Consulta)
 Para cumprir os requisitos de redundância e acessibilidade, o protótipo oferece duas rotas distintas para a realização da mesma tarefa:
