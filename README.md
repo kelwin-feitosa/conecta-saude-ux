@@ -6,7 +6,7 @@
 * **Jonathan Correia**
 
 ## 🎯 Contexto e Desafio
-O **ConectaSaúde** é um wireframe de baixa fidelidade para um ecossistema de saúde digital. O foco do projeto é a jornada de agendamento de consultas psicológicas, otimizada para utilizadores que necessitam de baixa fricção cognitiva e rapidez no acesso ao cuidado emocional.
+O **ConectaSaúde** é um wireframe de baixa fidelidade voltado para um app de plano de saúde. O objetivo central é permitir que um usuário (percebido como emocionalmente vulnerável e com baixa tolerância à fricção) agende uma consulta de forma rápida e intuitiva. O design foca na clareza do processo, eliminando distrações visuais.
 
 ## 🔗 Protótipo Navegável (Figma)
 > [!IMPORTANT]
